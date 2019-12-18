@@ -5,14 +5,14 @@ homepage: https://github.com/Cretezy/redux_persist/tree/master/packages/redux_pe
 author: Charles Crete <charles@cretezy.com>
 
 environment:
-  sdk: ">=2.0.0-dev <3.0.0"
+  sdk: ">=3.0.0-dev <5.0.0"
 
 dependencies:
   flutter:
     sdk: "flutter"
   path_provider: "^1.1.2"
   shared_preferences: "^0.5.1+1"
-  redux_persist: "^0.8.0"
+  redux_persist: "^0.8.2"
 
 # Used for development
 #dependency_overrides:
